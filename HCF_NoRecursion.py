@@ -1,6 +1,11 @@
 #!/usr/bin/env python
 import numpy as np
 import time
+# ---------------------------
+'''
+
+'''
+# ---------------------------
 
 def hcf2numbers():
     m,n = map(int,input('Enter two positive numbers(integers): ').split(" "))
